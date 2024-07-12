@@ -44,7 +44,7 @@ Morgan’s Department Store distributes bonuses to its salespeople after the hol
 ### Instructions:
 I think you would agree that it is always tedious to find the meaning of a word in the dictionary, right? Hence you have been tasked to create an interactive 
 dictionary using python. 
-- Save 20 words (Any words of your choice) together with their meaning in a text, json or xml file. 
+- Save 20 words (Any words of your choice) together with their meaning in a text, JSON or XML file. 
 - Load the file in your application and allow the user to search for the saved words.  
 - If the user searches for a word not part of the saved list, show an error message. 
 - If the user’s word is found in the list, show the meaning of the word. 
