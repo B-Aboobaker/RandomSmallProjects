@@ -22,7 +22,6 @@ Morgan’s Department Store distributes bonuses to its salespeople after the hol
 | 5 | 60.00   | 72.00 | 84.00   | 96.00   | 120.00  |
 | 6 | 85.00   | 100.00| 120.00  | 140.00  | 175.00  |
 
-
 - Making use of Multi-dimensional Arrays. Write a program that allows a user to continuously enter values for the two bonus-determining factors until they enter 999 to quit the program and displays the appropriate bonus.
 
 ## InteractiveDictionary.py
