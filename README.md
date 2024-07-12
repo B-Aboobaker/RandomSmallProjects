@@ -1,6 +1,9 @@
 # RandomSmallProjects
 This repository demonstrates the small projects that I have worked on and completed
 
+<img src="assets/images/Aboobaker_RandomSmallProjects.png" alt="Aboobaker Random Small Projects">
+
+
 ## LotteryGame.py
 ### Instructions: 
 - Create a lottery game application. Generate three random numbers, each between 0 and 9.  
