@@ -37,5 +37,12 @@ dictionary using python.
 - Allow the user to search for a closest match for the word entered, if it is not found in the list. If the user selects 'No' end the program. 
 
 ## RockPaperScissors.py
-### Instructions
+### Instructions:
 Create a python program will help users to play rock, paper, scissors along with the computer that is designed by you. In this program, you will use a random function for generating the random output by the computer side. The user will make the first move and then the program makes one. Then a function will check the validity of the move. At last, we will display the result and ask the user to play again or not.
+
+## Tic-Tac-Toe.py
+### Instructions:
+Using functions Create a tic-tac-toe using python programming just by applying some core concepts. Create a 3x3 grid just like the traditional method. Then we will ask the user to put ‘X’ at any of the grid and respond accordingly by placing ‘O’ in the remaining places. Make sure you handle errors.
+
+
+
