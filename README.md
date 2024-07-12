@@ -1,10 +1,10 @@
 # RandomSmallProjects
-This repository demonstrates the small projects that I have worked on and completed
+This repository demonstrates small Python projects I've completed while learning programming basics.
 
 <img src="assets/images/Aboobaker_RandomSmallProjects.png" alt="Aboobaker Random Small Projects">
 
 ## Context
-This repository contains all my small projects that I have worked on and completed while still learning the basics of programming
+This repository contains a collection of small Python projects that I have worked on and completed, aimed at practicing fundamental programming concepts.
 
 ## Table of Contents
 - [RandomSmallProjects](#randomsmallprojects)
