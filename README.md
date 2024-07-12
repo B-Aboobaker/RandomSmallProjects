@@ -3,6 +3,19 @@ This repository demonstrates the small projects that I have worked on and comple
 
 <img src="assets/images/Aboobaker_RandomSmallProjects.png" alt="Aboobaker Random Small Projects">
 
+## Context
+This repository contains all my small projects that I have worked on and completed while still learning the basics of programming
+
+## Table of Contents
+- [RandomSmallProjects](#randomsmallprojects)
+- [Context](#context)
+- [Table of Contents](#table-of-contents)
+- [LotteryGame.py](#lotterygamepy)
+- [MorgansBonuses.py](#morgansbonusespy)
+- [InteractiveDictionary.py](#interactivedictionarypy)
+- [RockPaperScissors.py](#rockpaperscissorspy)
+- [Tic-Tac-Toe.py](#tic-tac-toepy)
+
 
 ## LotteryGame.py
 ### Instructions: 
